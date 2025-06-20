@@ -1,6 +1,5 @@
 print("Hello, World sandesh")
-print('This is ')
-print("This is a ")
+print("This is a gfghh")
 print('This is another test.')
 import pandas as pd
 import numpy as np
